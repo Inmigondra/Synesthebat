@@ -5,9 +5,8 @@ public class LightChange : MonoBehaviour
 {
 
 	public Light pointlight;
-	public float intensity = 1.5f;
-	public float range = 150f;
-	public bool lightUp = false;
+	public float intensity;
+	public float range ;
 
 	void Start () 
 	{
@@ -20,18 +19,14 @@ public class LightChange : MonoBehaviour
 
 	void Update () 
 	{
-
 		if (Input.GetMouseButton (0)) {
 			pointlight.intensity = pointlight.intensity + 0.02f;
 			pointlight.range = pointlight.range + 1f;
-			lightUp = true;
 		} else {
-			lightUp = false;
-			if (pointlight.intensity > 0)
+			if (pointlight.intensity > 0.5f)
 				pointlight.intensity = pointlight.intensity - 0.02f;
 			if (pointlight.range > 20)
 				pointlight.range = pointlight.range - 1f;
 		}
-
 	}
 }
