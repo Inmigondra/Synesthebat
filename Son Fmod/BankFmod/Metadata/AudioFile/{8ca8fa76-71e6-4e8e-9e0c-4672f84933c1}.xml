@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{8ca8fa76-71e6-4e8e-9e0c-4672f84933c1}">
+        <property name="assetPath">
+            <value>drum.WAV</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>6</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{e8abf9e1-8a69-4c97-a7bf-e267c773be86}</destination>
+        </relationship>
+    </object>
+</objects>
