@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{BF76EC90-514F-902B-2CA1-15B60390B5D7}") = "Synesthebat_Proto", "Assembly-CSharp.csproj", "{10EC3540-1E76-1A8C-362F-2214A01CD51B}"
 EndProject
+Project("{BF76EC90-514F-902B-2CA1-15B60390B5D7}") = "Synesthebat_Proto", "Assembly-CSharp-Editor.csproj", "{2ABF8071-A262-1E03-7A9F-82AA72F459E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{10EC3540-1E76-1A8C-362F-2214A01CD51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10EC3540-1E76-1A8C-362F-2214A01CD51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10EC3540-1E76-1A8C-362F-2214A01CD51B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABF8071-A262-1E03-7A9F-82AA72F459E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABF8071-A262-1E03-7A9F-82AA72F459E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABF8071-A262-1E03-7A9F-82AA72F459E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABF8071-A262-1E03-7A9F-82AA72F459E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -45,6 +45,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FMOD\Plugins\FMOD\BankRefAttribute.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\EventRefAttribute.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\FMODAsset.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\FMOD_Listener.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\FMOD_StudioEventEmitter.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\OneshotList.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\ParamRef.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\RuntimeManager.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\RuntimeUtils.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\Settings.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\StudioBankLoader.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\StudioEventEmitter.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\StudioListener.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\StudioParameterTrigger.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\Wrapper\fmod.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\Wrapper\fmod_dsp.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\Wrapper\fmod_errors.cs" />
+     <Compile Include="Assets\FMOD\Plugins\FMOD\Wrapper\fmod_studio.cs" />
      <Compile Include="Assets\Scripts\Camera_Control.cs" />
      <Compile Include="Assets\Scripts\LightChange.cs" />
      <Compile Include="Assets\Scripts\avatar_movement.cs" />
