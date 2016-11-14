@@ -47,7 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Script\Camera_Control.cs" />
      <Compile Include="Assets\Script\LightChange.cs" />
-     <Compile Include="Assets\Script\LightParameterFMOD.cs" />
+     <Compile Include="Assets\Script\LightParameter.cs" />
      <Compile Include="Assets\Script\avatar_movement.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
