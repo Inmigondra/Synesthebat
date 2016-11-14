@@ -6,7 +6,11 @@
     <object class="EventAutomatableProperties" id="{4eaf10a1-3f50-4f2b-b287-9338af2f8ee7}"/>
     <object class="MarkerTrack" id="{269915cb-8a20-4111-ab9c-c5d3d1ab8ac2}"/>
     <object class="GroupTrack" id="{02bb64d0-8340-45aa-9d35-ef52d4ed2527}"/>
-    <object class="Timeline" id="{c3d0902e-414a-45e3-ab43-8bb8106a97d9}"/>
+    <object class="Timeline" id="{c3d0902e-414a-45e3-ab43-8bb8106a97d9}">
+        <property name="uiLastRulerScaleRatio">
+            <value>0.045523520485584217</value>
+        </property>
+    </object>
     <object class="EventMixerMaster" id="{d3f94d43-120a-4c8d-bbaf-d7800d6c5123}">
         <relationship name="input">
             <destination>{b9113a4a-b1fd-4958-94aa-01e040db1e67}</destination>

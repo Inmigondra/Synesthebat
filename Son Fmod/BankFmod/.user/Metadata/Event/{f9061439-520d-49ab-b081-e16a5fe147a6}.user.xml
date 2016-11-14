@@ -2,25 +2,17 @@
 <objects serializationModel="Studio.01.08.00">
     <object class="Event" id="{f9061439-520d-49ab-b081-e16a5fe147a6}">
         <relationship name="selectables">
-            <destination>{fc304d2c-be74-436a-8bce-4044ffd00f09}</destination>
+            <destination>{8eaa04f5-0633-4dae-b630-6007b538ce91}</destination>
         </relationship>
         <relationship name="uiLastParameterSelection">
             <destination>{30fba337-236a-4721-ab65-801ea7e42d84}</destination>
-        </relationship>
-        <relationship name="items">
-            <destination>{c061a7ff-f3d2-454e-ab40-27773ecc93a1}</destination>
-            <destination>{09b93919-51ae-41ed-b4fd-d412e4dc9fcd}</destination>
         </relationship>
     </object>
     <object class="MasterTrack" id="{2c870dc2-05f4-4fc9-9aa3-708e844648cf}"/>
     <object class="MixerInput" id="{c9347dbb-6ddf-4fd2-bffd-3b533389d4eb}"/>
     <object class="EventAutomatableProperties" id="{ea9bf5e4-eea7-4021-ba3f-98aa5d9cf22a}"/>
     <object class="MarkerTrack" id="{388c013a-0f03-45b2-84f5-ff68a1278a07}"/>
-    <object class="GroupTrack" id="{b6a54823-0a53-42dd-a372-efb57cb73096}">
-        <property name="uiAutomationTracksVisible">
-            <value>true</value>
-        </property>
-    </object>
+    <object class="GroupTrack" id="{b6a54823-0a53-42dd-a372-efb57cb73096}"/>
     <object class="GroupTrack" id="{3c391b2e-4d2b-4287-9ad3-d027d29ab566}">
         <property name="uiAutomationTracksVisible">
             <value>true</value>
@@ -31,18 +23,15 @@
             <value>0</value>
         </property>
         <property name="uiLastRulerScaleRatio">
-            <value>0.045523520485584217</value>
+            <value>0.010470409711684369</value>
         </property>
     </object>
     <object class="DistanceParameter" id="{30fba337-236a-4721-ab65-801ea7e42d84}">
         <property name="cursorPosition">
-            <value>18.200000762939453</value>
+            <value>0.39453718066215515</value>
         </property>
         <property name="uiLastRulerScaleRatio">
             <value>0.030349013657056147</value>
-        </property>
-        <property name="uiLastHorizontalScrollBarValue">
-            <value>11</value>
         </property>
     </object>
     <object class="EventMixerMaster" id="{0df16600-7980-4a26-bbbe-36a979d28866}">
